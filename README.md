@@ -1,11 +1,11 @@
 # Social_Influencers
-Classify which one is more influential in a social network
+>Classify which one is more influential in a social network
 
 ## Problem Statement
-[Here](https://github.com/sani29/Social_Influencers/blob/master/Problem%20Statement.pdf)
+>[Here](https://github.com/sani29/Social_Influencers/blob/master/Problem%20Statement.pdf)
 
 ## Solution Notebook
-[Here](https://github.com/sani29/Social_Influencers/blob/master/Social_Influence.ipynb)
+>[Here](https://github.com/sani29/Social_Influencers/blob/master/Social_Influence.ipynb)
 
 ## Training Dataset
 >Training Features: [Here](https://github.com/sani29/Social_Influencers/blob/master/Train_Data_X.csv) <br/>
